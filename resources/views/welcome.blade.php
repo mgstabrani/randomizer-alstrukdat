@@ -10,7 +10,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
+                background-color: rgb(216, 197, 22);
                 color: #636b6f;
                 height: 100vh;
                 margin: 0;
@@ -54,7 +54,7 @@
     </head>
     <body>
         <div class="fixed-top mb-5">
-            <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #800000 ">
+            <nav class="navbar navbar-expand-lg navbar-light" style="background-color: grey">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item col">
                         <a style="color: white">Teknik Informatika ITB</a>
