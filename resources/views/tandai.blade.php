@@ -74,9 +74,6 @@
                     <p class="card-text">{{$mhs[2]}}</p>
                     <p class="card-text">{{$mhs[3]}}</p>
                     <a href="/" class="btn btn-primary">Randomkeun</a>
-                    @if ($mhs[3] == 'Belum')
-                        <a href="/{{$mhs[0]}}" class="btn btn-success">Tandai Sudah</a>
-                    @endif
                     </div>
                     <div class="card-footer text-muted">
                         IF2110 K-02

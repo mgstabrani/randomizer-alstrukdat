@@ -17,3 +17,4 @@ use Illuminate\Support\Facades\Route;
 //     return view('welcome');
 // });
 Route::get('/','RandomizerController@random');
+Route::get('/{id}','RandomizerController@tandai');
